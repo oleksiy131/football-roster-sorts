@@ -4,9 +4,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 /*	NAME: Oleksii Dukhovenko
- * 	CLASS: CPSC 374
- * 	PROFESSOR: Dr. Whitfield
- *	ASSIGNMENT_1
+ * 	
  */
 
 
