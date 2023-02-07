@@ -1,0 +1,63 @@
+Ray-Ray Armstrong 52 	LB 	6-3 	220 	27 	6 	Miami (Fla.)
+Genard Avery 55 	LB 	6-0 	250 	23 	R 	Memphis
+Joel Bitonio 75 	OL 	6-4 	305 	27 	5 	Nevada
+Briean Boddy-Calhoun 20 	DB 	5-9 	193 	25 	3 	Minnesota
+Pharaoh Brown 86 	TE 	6-6 	258 	24 	1 	Oregon
+Juston Burris 31 	DB 	6-0 	212 	25 	3 	North Carolina State
+Antonio Callaway 11 	WR 	5-11 	200 	22 	R 	Florida
+T.J. Carrie 38 	DB 	6-0 	204 	28 	5 	Ohio
+Orson Charles 82 	TE 	6-3 	257 	27 	3 	Georgia
+Nick Chubb 24 	RB 	5-11 	227 	23 	R 	Georgia
+Trevon Coley 93 	DL 	6-1 	310 	24 	2 	Florida Atlantic
+Jamie Collins-Sr.  51 	LB 	6-3 	250 	29 	6 	Southern Mississippi
+Britton Colquitt 4 	P 	6-3 	210 	33 	9 	Tennessee
+Austin Corbett 63 	OL 	6-4 	306 	23 	R 	Nevada
+Carl Davis 94 	DL 	6-5 	320 	26 	4 	Iowa
+Seth DeValve 87 	TE 	6-3 	245 	25 	3 	Princeton
+Darren Fells 88 	TE 	6-7 	270 	32 	5 	California-Irvine
+E.J. Gaines 28 	DB 	5-10 	191 	26 	5 	Missouri
+Phillip Gaines 33 	DB 	6-0 	193 	27 	5 	Rice
+Myles Garrett 95 	DL 	6-4 	272 	23 	2 	Texas A&M
+Desmond Harrison 69 	OL 	6-6 	295 	25 	R 	West Georgia
+Rashard Higgins 81 	WR 	6-1 	198 	24 	3 	Colorado State
+Dontrell Hilliard 25 	RB 	5-11 	202 	23 	R 	Tulane
+D'Juan Hines 59 	LB 	6-1 	235 	24 	R 	Houston
+Chris Hubbard 74 	OL 	6-4 	295 	27 	5 	Alabama-Birmingham
+Charley Hughlett 47 	LS 	6-4 	248 	28 	4 	Central Florida
+Blake Jackson 12 	WR 	5-10 	200 	24 	R 	Mary Hardin-Baylor
+Duke Johnson-Jr.  29 	RB 	5-9 	210 	25 	4 	Miami (Fla.)
+Lenny Jones 00		DL 	6-2 	256 	27 	1 	Nevada
+Greg Joseph 17 	K 	6-0 	208 	24 	R 	Florida Atlantic
+Kyle Kalis 68 	OL 	6-4 	306 	25 	2 	Michigan
+Derrick Kindred 26 	DB 	5-10 	210 	25 	3 	TCU
+Christian Kirksey 58 	LB 	6-2 	235 	26 	5 	Iowa
+Jarvis Landry 80 	WR 	5-11 	196 	26 	5 	LSU
+Ricardo Louis 15 	WR 	6-2 	215 	24 	3 	Auburn
+Baker Mayfield 6 	QB 	6-1 	215 	23 	R 	Oklahoma
+Terrance Mitchell 39 	DB 	5-11 	191 	26 	5 	Oregon
+David Njoku 85 	TE 	6-4 	246 	22 	2 	Miami (Fla.)
+Emmanuel Ogbah 90 	DL 	6-4 	275 	25 	3 	Oklahoma State
+Larry Ogunjobi 65 	DL 	6-3 	305 	24 	2 	Charlotte
+Jabrill Peppers 22 	DB 	5-11 	213 	23 	2 	Michigan
+Breshad Perriman 19 	WR 	6-2 	211 	25 	4 	Central Florida
+Brian Price 91 	DL 	6-3 	322 	24 	2 	Texas-San Antonio
+Damarious Randall 23 	DB 	5-11 	196 	26 	4 	Arizona State
+Damion Ratley 18 	WR 	6-2 	200 	23 	R 	Texas A&M
+Greg Robinson 78 	OL 	6-5 	330 	26 	5 	Auburn
+Joe Schobert 53 	LB 	6-1 	245 	25 	3 	Wisconsin
+Chris Smith 50 	DL 	6-1 	266 	26 	5 	Arkansas
+Drew Stanton 9 	QB 	6-3 	226 	34 	12 	Michigan State
+Rod Streater 13 	WR 	6-2 	195 	30 	6 	Temple
+Tyrod Taylor 5 	QB 	6-1 	217 	29 	8 	Virginia Tech
+Chad Thomas 92 	DL 	6-5 	278 	23 	R 	Miami (Fla.)
+Tavierre Thomas 27 	DB 	5-10 	205 	22 	R 	Ferris State
+JC Tretter 64 	OL 	6-4 	307 	27 	6 	Cornell
+Tanner Vallejo 54 	LB 	6-1 	230 	24 	2 	Boise State
+Denzel Ward 21 	DB 	5-11 	190 	21 	R 	Ohio State
+Earl Watford 71 	OL 	6-3 	300 	28 	6 	James Madison
+Jermaine Whitehead 35 	DB 	5-11 	195 	25 	2 	Auburn
+Derrick Willies 84 	WR 	6-4 	207 	24 	R 	Texas Tech
+Howard Wilson 30 	DB 	6-1 	184 	23 	2 	Houston
+Xavier Woodson-Luster 56 	LB 	6-1 	220 	23 	2 	Arkansas State
+Kevin Zeitler 70 	OL 	6-4 	315 	28 	7 	Wisconsin
+Anthony Zettel 97 	DL 	6-4 	275 	26 	3 	Penn State
