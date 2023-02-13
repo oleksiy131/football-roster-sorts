@@ -32,7 +32,7 @@ public class Main {
 		// PLEASE NOTE: 
 		// For the program to work the PATH to the file needs to be correct!!!
 		
-		Scanner sc = new Scanner(new File("/Users/oleksii/Desktop/Roster.txt"));	//PATH
+		Scanner sc = new Scanner(new File("Roster.txt"));	//PATH
 		while (sc.hasNextLine()) {
 			firstName = new String();
 			firstName = sc.next();
